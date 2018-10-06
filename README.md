@@ -2,7 +2,7 @@
 How to manage default arguments in C++ functions
 
 In C++ programming, you can provide default values for function parameters. The idea behind default argument is very simple. If a function is called by passing argument/s, those arguments are used by the function. But if all argument/s are not passed while invoking a function then, the default value passed to arguments are used. Default value/s are passed to argument/s in function prototype. Working of default argument is demonstrated in the figure below:
-![untitled](https://user-images.githubusercontent.com/41892175/46570579-ce690080-c998-11e8-8718-9046b73236d5.jpg)
+![untitled](https://user-images.githubusercontent.com/41892175/46570675-79c68500-c99a-11e8-984b-447d111fa64c.jpg)
 
 ## Example: Default Argument
 ```
