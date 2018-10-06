@@ -49,7 +49,7 @@ Both argument passed:
 $$$$$
 ```
 
-In the above program, you can see default value passed to arguments(in function prototype). At first,display() function is called without passing any arguments. In this case, default() function used both default arguments. Then, the function is called using only first argument. In this case, function does not use first default value passed. Function uses the actual parameter passed as first argument and takes default value(second value in function prototype) as it's second argument. When display()is invoked passing both arguments, default arguments are not used.
+In the above program, you can see default value passed to arguments (in function prototype). At first, display( ) function is called without passing any arguments. In this case, default( ) function used both default arguments. Then, the function is called using only first argument. In this case, function does not use first default value assigned. Instead function uses the actual parameter passed as first argument and takes default value(second value in function prototype) as it's second argument. When display( ) is invoked passing both arguments, default arguments are not used.
 
 #### Note:
 The missing argument must be the last argument of the list, that is, if you are passing only one argument in the above function, it should be the first argument.
