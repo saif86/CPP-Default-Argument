@@ -1,5 +1,5 @@
 /**
-* @file Example2.cpp
+* @file Example.cpp
 *
 * @brief C++ Program to demonstrate working of default argument.
 *
